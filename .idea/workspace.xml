@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a0445ca-217b-4df5-bdd8-834e1cefc877" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1UP5QxMEwtHdnmFK5quPRlsEVam" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TensorTrain" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a0445ca-217b-4df5-bdd8-834e1cefc877" name="Default Changelist" comment="" />
+      <created>1575245377249</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575245377249</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="258" y="278" width="424" height="484" key="FileChooserDialogImpl" timestamp="1577031250988">
+      <screen x="0" y="27" width="1920" height="986" />
+    </state>
+    <state x="258" y="278" width="424" height="484" key="FileChooserDialogImpl/0.27.1920.986@0.27.1920.986" timestamp="1577031250988" />
+    <state x="397" y="216" key="SettingsEditor" timestamp="1577028980592">
+      <screen x="0" y="27" width="1920" height="986" />
+    </state>
+    <state x="397" y="216" key="SettingsEditor/0.27.1920.986@0.27.1920.986" timestamp="1577028980592" />
+    <state x="1160" y="225" width="760" height="788" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1578613309513">
+      <screen x="0" y="27" width="1920" height="986" />
+    </state>
+    <state x="1160" y="225" width="760" height="788" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.27.1920.986@0.27.1920.986" timestamp="1578613309513" />
+    <state x="680" y="137" width="550" height="764" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1578607676449">
+      <screen x="0" y="27" width="1920" height="986" />
+    </state>
+    <state x="680" y="137" width="550" height="764" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1920.986@0.27.1920.986" timestamp="1578607676448" />
+    <state x="983" y="69" width="937" height="944" key="dock-window-1" timestamp="1577109855530">
+      <screen x="0" y="27" width="1920" height="986" />
+    </state>
+    <state x="983" y="69" width="937" height="944" key="dock-window-1/0.27.1920.986@0.27.1920.986" timestamp="1577109855530" />
+    <state x="997" y="224" width="866" height="592" key="find.popup" timestamp="1576927421785">
+      <screen x="0" y="27" width="1920" height="986" />
+    </state>
+    <state x="997" y="224" width="866" height="592" key="find.popup/0.27.1920.986@0.27.1920.986" timestamp="1576927421785" />
+    <state x="1093" y="242" width="672" height="678" key="search.everywhere.popup" timestamp="1578632215093">
+      <screen x="0" y="27" width="1920" height="986" />
+    </state>
+    <state x="1093" y="242" width="672" height="678" key="search.everywhere.popup/0.27.1920.986@0.27.1920.986" timestamp="1578632215093" />
+  </component>
+</project>
